@@ -1,0 +1,741 @@
+row.names,pclass,survived,name,age,embarked,homedest,sex
+1,1,1,"Allen, Miss Elisabeth Walton",29.0,1,"St Louis, MO",0
+2,1,0,"Allison, Miss Helen Loraine",2.0,1,"Montreal, PQ / Chesterville, ON",0
+3,1,0,"Allison, Mr Hudson Joshua Creighton",30.0,1,"Montreal, PQ / Chesterville, ON",1
+4,1,0,"Allison, Mrs Hudson J.C. (Bessie Waldo Daniels)",25.0,1,"Montreal, PQ / Chesterville, ON",0
+5,1,1,"Allison, Master Hudson Trevor",0.9167,1,"Montreal, PQ / Chesterville, ON",1
+6,1,1,"Anderson, Mr Harry",47.0,1,"New York, NY",1
+7,1,1,"Andrews, Miss Kornelia Theodosia",63.0,1,"Hudson, NY",0
+8,1,0,"Andrews, Mr Thomas, jr",39.0,1,"Belfast, NI",1
+9,1,1,"Appleton, Mrs Edward Dale (Charlotte Lamson)",58.0,1,"Bayside, Queens, NY",0
+10,1,0,"Artagaveytia, Mr Ramon",71.0,2,"Montevideo, Uruguay",1
+11,1,0,"Astor, Colonel John Jacob",47.0,2,"New York, NY",1
+12,1,1,"Astor, Mrs John Jacob (Madeleine Talmadge Force)",19.0,2,"New York, NY",0
+13,1,1,"Aubert, Mrs Leontine Pauline",,2,"Paris, France",0
+14,1,1,"Barkworth, Mr Algernon H.",,1,"Hessle, Yorks",1
+15,1,0,"Baumann, Mr John D.",,1,"New York, NY",1
+16,1,1,"Baxter, Mrs James (Helene DeLaudeniere Chaput)",50.0,2,"Montreal, PQ",0
+17,1,0,"Baxter, Mr Quigg Edmond",24.0,2,"Montreal, PQ",1
+18,1,0,"Beattie, Mr Thomson",36.0,2,"Winnipeg, MN",1
+19,1,1,"Beckwith, Mr Richard Leonard",37.0,1,"New York, NY",1
+20,1,1,"Beckwith, Mrs Richard Leonard (Sallie Monypeny)",47.0,1,"New York, NY",0
+21,1,1,"Behr, Mr Karl Howell",26.0,2,"New York, NY",1
+22,1,0,"Birnbaum, Mr Jakob",25.0,2,"San Francisco, CA",1
+23,1,1,"Bishop, Mr Dickinson H.",25.0,2,"Dowagiac, MI",1
+24,1,1,"Bishop, Mrs Dickinson H. (Helen Walton)",19.0,2,"Dowagiac, MI",0
+25,1,1,"Bjornstrm-Steffansson, Mr Mauritz Hakan",28.0,1,"Stockholm, Sweden / Washington, DC",1
+26,1,0,"Blackwell, Mr Stephen Weart",45.0,1,"Trenton, NJ",1
+27,1,1,"Blank, Mr Henry",39.0,2,"Glen Ridge, NJ",1
+28,1,1,"Bonnell, Miss Caroline",30.0,1,"Youngstown, OH",0
+29,1,1,"Bonnell, Miss Elizabeth",58.0,1,"Birkdale, England Cleveland, Ohio",0
+30,1,0,"Borebank, Mr John James",,1,"London / Winnipeg, MB",1
+31,1,1,"Bowen, Miss Grace Scott",45.0,2,"Cooperstown, NY",0
+32,1,1,"Bowerman, Miss Elsie Edith",22.0,1,"St Leonards-on-Sea, England Ohio",0
+33,1,1,"Bradley, Mr George",,1,"Los Angeles, CA",1
+34,1,0,"Brady, Mr John Bertram",41.0,1,"Pomeroy, WA",1
+35,1,0,"Brandeis, Mr Emil",48.0,2,"Omaha, NE",1
+36,1,0,"Brewe, Dr Arthur Jackson",,2,"Philadelphia, PA",1
+37,1,1,"Brown, Mrs James Joseph (Margaret Molly"" Tobin)""",44.0,2,"Denver, CO",0
+38,1,1,"Brown, Mrs John Murray (Caroline Lane Lamson)",59.0,1,"Belmont, MA",0
+39,1,1,"Bucknell, Mrs William Robert (Emma Eliza Ward)",60.0,2,"Philadelphia, PA",0
+40,1,0,"Butt, Major Archibald Willingham",45.0,1,"Washington, DC",1
+41,1,1,"Calderhead, Mr Edward P.",,1,"New York, NY",1
+42,1,1,"Candee, Mrs Edward (Helen Churchill Hungerford)",53.0,2,"Washington, DC",0
+43,1,1,"Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake)",58.0,2,"Germantown, Philadelphia, PA",0
+44,1,1,"Cardeza, Mr Thomas Drake Martinez",36.0,2,"Austria-Hungary / Germantown, Philadelphia, PA",1
+45,1,0,"Carlsson, Mr Frans Olof",33.0,1,"New York, NY",1
+46,1,0,"Carrau, Mr Francisco M.",,1,"Montevideo, Uruguay",1
+47,1,0,"Carrau, Mr Jose Pedro",,1,"Montevideo, Uruguay",1
+48,1,1,"Carter, Mr William Ernest",36.0,1,"Bryn Mawr, PA",1
+49,1,1,"Carter, Mrs William Ernest (Lucile Polk)",36.0,1,"Bryn Mawr, PA",0
+50,1,1,"Carter, Miss Lucile Polk",14.0,1,"Bryn Mawr, PA",0
+51,1,1,"Carter, Master William T. II",11.0,1,"Bryn Mawr, PA",1
+52,1,0,"Case, Mr Howard Brown",49.0,1,"Ascot, Berkshire / Rochester, NY",1
+53,1,1,"Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick)",,2,"New York, NY",0
+54,1,0,"Cavendish, Mr Tyrell William",36.0,1,"Little Onn Hall, Staffs",1
+55,1,1,"Cavendish, Mrs Tyrell William Julia Florence Siegel",,1,"Little Onn Hall, Staffs",0
+56,1,0,"Chaffee, Mr Herbert Fuller",46.0,1,"Amenia, ND",1
+57,1,1,"Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood)",47.0,1,"Amenia, ND",0
+58,1,1,"Chambers, Mr Norman Campbell",27.0,1,"New York, NY / Ithaca, NY",1
+59,1,1,"Chambers, Mrs Norman Campbell (Bertha Griggs)",31.0,1,"New York, NY / Ithaca, NY",0
+60,1,1,"Cherry, Miss Gladys",,1,"London, England",0
+61,1,1,"Chevre, Mr Paul",,2,"Paris, France",1
+62,1,1,"Chibnall (Bowerman), Mrs Edith Martha",,1,"St Leonards-on-Sea, England Ohio",0
+64,1,0,"Clark, Mr Walter Miller",27.0,2,"Los Angeles, CA",1
+65,1,1,"Clark, Mrs Walter Miller (Virginia McDowell)",26.0,2,"Los Angeles, CA",0
+66,1,0,"Clifford, Mr George Quincy",,1,"Stoughton, MA",1
+67,1,0,"Colley, Mr Edward Pomeroy",,1,"Victoria, BC",1
+68,1,1,"Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll)",64.0,2,"Lakewood, NJ",0
+69,1,0,"Compton, Mr Alexander Taylor, Jr",37.0,2,"Lakewood, NJ",1
+70,1,1,"Compton, Miss Sara Rebecca",39.0,2,"Lakewood, NJ",0
+71,1,1,"Cornell, Mrs Robert Clifford (Malvina Helen Lamson)",55.0,1,"New York, NY",0
+72,1,0,"Crafton, Mr John Bertram",,1,"Roachdale, IN",1
+73,1,0,"Crosby, Captain Edward Gifford",70.0,1,"Milwaukee, WI",1
+74,1,1,"Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead)",69.0,1,"Milwaukee, WI",0
+75,1,1,"Crosby, Miss Harriet R.",36.0,1,"Milwaukee, WI",0
+76,1,0,"Cumings, Mr John Bradley",39.0,2,"New York, NY",1
+77,1,1,"Cumings, Mrs John Bradley (Florence Briggs Thayer)",38.0,2,"New York, NY",0
+78,1,1,"Daly, Mr Peter Denis ",,1,"Lima, Peru",1
+79,1,1,"Daniel, Mr Robert Williams",27.0,1,"Philadelphia, PA",1
+80,1,0,"Davidson, Mr Thornton",31.0,1,"Montreal, PQ",1
+81,1,1,"Davidson, Mrs Thornton (Orian Hays)",27.0,1,"Montreal, PQ",0
+82,1,1,"de Villiers, Madame Berthe",,2,"Belgium  Montreal, PQ",0
+83,1,1,"Dick, Mr Albert Adrian",31.0,2,"Calgary, AB",1
+84,1,1,"Dick, Mrs Albert Adrian Vera Gillespie",17.0,2,"Calgary, AB",0
+85,1,1,"Dodge, Dr. Washington",,1,"San Francisco, CA",1
+86,1,1,"Dodge, Mrs Washington (Ruth Vidaver)",,1,"San Francisco, CA",0
+87,1,1,"Dodge, Master Washington",4.0,1,"San Francisco, CA",1
+88,1,1,"Douglas, Mrs Frederick Charles (Suzette Baxter)",27.0,2,"Montreal, PQ",0
+89,1,0,"Douglas, Mr Walter Donald",50.0,2,"Deephaven, MN / Cedar Rapids, IA",1
+90,1,1,"Douglas, Mrs Walter Donald (Mahala Dutton)",48.0,2,"Deephaven, MN / Cedar Rapids, IA",0
+91,1,1,"Duff Gordon, Sir Cosmo Edmund",49.0,2,London / Paris,1
+92,1,1,"Duff Gordon, Lady (Lucille Wallace Sutherland)",48.0,2,London / Paris,0
+93,1,0,"Dulles, Mr William Crothers",39.0,2,"Philadelphia, PA",1
+94,1,1,"Earnshaw, Mrs Boulton (Olive Potter)",23.0,2,"Mt Airy, Philadelphia, PA",0
+95,1,1,"Eustis, Miss Elizabeth Mussey",53.0,2,"Brookline, MA",0
+96,1,0,"Evans, Miss Edith Corse",36.0,2,"New York, NY",0
+97,1,1,"Flegenheim, Mrs Alfred (Antoinette)",,2,"New York, NY",0
+98,1,1,"Flynn, Mr John Irving",,1,"Brooklyn, NY",1
+99,1,0,"Foreman, Mr Benjamin Laventall",30.0,2,"New York, NY",1
+100,1,1,"Fortune, Miss Alice Elizabeth",24.0,1,"Winnipeg, MB",0
+101,1,0,"Fortune, Mr Charles Alexander",19.0,1,"Winnipeg, MB",1
+102,1,1,"Fortune, Miss Ethel Flora",28.0,1,"Winnipeg, MB",0
+103,1,1,"Fortune, Miss Mabel",23.0,1,"Winnipeg, MB",0
+104,1,0,"Fortune, Mr Mark",64.0,1,"Winnipeg, MB",1
+105,1,1,"Fortune, Mrs Mark (Mary McDougald)",60.0,1,"Winnipeg, MB",0
+106,1,0,"Franklin, Mr Thomas Parham",,1,"Westcliff-on-Sea, Essex",1
+107,1,1,"Frauenthal, Dr Henry William",49.0,2,"New York, NY",1
+108,1,1,"Frauenthal, Mrs Henry William (Clara Heinsheimer)",,2,"New York, NY",0
+109,1,1,"Frauenthal, Mr Isaac Gerald",44.0,1,"New York, NY",1
+110,1,1,"Frolicher, Miss Marguerite",22.0,2,"Zurich, Switzerland",0
+111,1,1,"Frolicher-Stehli, Mr Maxmillian",60.0,2,"Zurich, Switzerland",1
+112,1,1,"Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli)",48.0,2,"Zurich, Switzerland",0
+113,1,0,"Futrelle, Mr Jacques",37.0,1,"Scituate, MA",1
+114,1,1,"Futrelle, Mrs Jacques (May Peel)",35.0,1,"Scituate, MA",0
+115,1,0,"Gee, Mr Arthur H.",47.0,1,"St Anne's-on-Sea, Lancashire",1
+116,1,1,"Gibson, Miss Dorothy",22.0,2,"New York, NY",0
+117,1,1,"Gibson, Mrs Leonard (Pauline C. Boeson)",45.0,2,"New York, NY",0
+118,1,1,"Goldenberg, Mr Samuel L.",49.0,2,"Paris, France / New York, NY",1
+119,1,1,"Goldenberg, Mrs Samuel L. (Edwiga Grabowsko)",,2,"Paris, France / New York, NY",0
+120,1,0,"Goldschmidt, Mr George B.",71.0,2,"New York, NY",1
+121,1,1,"Gracie, Colonel Archibald IV",54.0,1,"Washington, DC",1
+122,1,0,"Graham, Mr George Edward",38.0,1,"Winnipeg, MB",1
+123,1,1,"Graham, Miss Margaret Edith",19.0,1,"Greenwich, CT",0
+124,1,1,"Graham, Mrs William Thompson (Edith Junkins)",58.0,1,"Greenwich, CT",0
+125,1,1,"Greenfield, Mrs Leo David (Blanche Strouse)",45.0,2,"New York, NY",0
+126,1,1,"Greenfield, Mr William Bertram",23.0,2,"New York, NY",1
+127,1,0,"Guggenheim, Mr Benjamin",46.0,2,"New York, NY",1
+128,1,1,"Harder, Mr George Achilles",25.0,2,"Brooklyn, NY",1
+129,1,1,"Harder, Mrs George Achilles (Dorothy Annan)",21.0,2,"Brooklyn, NY",0
+130,1,1,"Harper, Mr Henry Sleeper",48.0,2,"New York, NY",1
+131,1,1,"Harper, Mrs Henry Sleeper (Myna Haxtun)",49.0,2,"New York, NY",0
+132,1,0,"Harris, Mr Henry Birkhardt",45.0,1,"New York, NY",1
+133,1,1,"Harris, Mrs Henry Birkhardt (Irene Wallach)",36.0,1,"New York, NY",0
+134,1,1,"Hawksford, Mr Walter James",,1,"Kingston, Surrey",1
+135,1,0,"Hays, Mr Charles Melville",55.0,1,"Montreal, PQ",1
+136,1,1,"Hays, Mrs Charles Melville (Clara Jennings Gregg)",52.0,1,"Montreal, PQ",0
+137,1,1,"Hays, Miss Margaret Bechstein",24.0,1,"New York, NY",0
+138,1,0,"Head, Mr Christopher",,1,London / Middlesex,1
+139,1,0,"Hilliard, Mr Herbert Henry",,1,"Brighton, MA",1
+140,1,0,"Hipkins, Mr William Edward",,1,London / Birmingham,1
+141,1,1,"Hippach, Miss Jean Gertrude",16.0,2,"Chicago, IL",0
+142,1,1,"Hippach, Mrs Louis Albert (Ida Sophia Fischer)",44.0,2,"Chicago, IL",0
+143,1,1,"Hogeboom, Mrs John C. (Anna Andrews)",51.0,1,"Hudson, NY",0
+144,1,0,"Holverson, Mr Alexander Oskar",42.0,1,"New York, NY",1
+145,1,1,"Holverson, Mrs Alexander Oskar (Mary Aline Towner)",35.0,1,"New York, NY",0
+146,1,1,"Homer, Mr Harry",35.0,2,"Indianapolis, IN",1
+147,1,1,"Hoyt, Mr Frederick Maxfield",38.0,1,"New York, NY /  Stamford CT",1
+148,1,1,"Hoyt, Mrs Frederick Maxfield (Jane Anne Forby)",35.0,1,"New York, NY /  Stamford CT",0
+149,1,0,"Hoyt, Mr William F.",,2,"New York, NY",1
+150,1,0,"Isham, Miss Anne Elizabeth",50.0,2,"Paris, France New York, NY",0
+151,1,1,"Ismay, Mr Joseph Bruce",49.0,1,Liverpool,1
+152,1,0,"Jones, Mr Charles Cresson",46.0,1,"Bennington, VT",1
+153,1,0,"Julian, Mr Henry Forbes",,1,London,1
+154,1,0,"Kent, Mr Edward Austin",58.0,2,"Buffalo, NY",1
+155,1,0,"Kenyon, Mr Frederick R.",41.0,1,"Southington / Noank, CT",1
+156,1,1,"Kenyon, Mrs Frederick R. (Marion)",,1,"Southington / Noank, CT",0
+157,1,1,"Kimball, Mr Edwin Nelson Jr.",42.0,1,"Boston, MA",1
+158,1,1,"Kimball, Mrs Edwin Nelson Jr. (Gertrude Parsons)",40.0,1,"Boston, MA",0
+159,1,0,"Klaber, Mr Herman",,1,"Portland, OR",1
+160,1,1,"Leader, Dr Alice Farnham",,1,"New York, NY",0
+161,1,0,"Lewy, Mr Ervin G.",,2,"Chicago, IL",1
+162,1,0,"Lindeberg-Lind, Mr Erik Gustaf",42.0,1,"Stockholm, Sweden",1
+163,1,1,"Lindstrom, Mrs Carl Johan (Sigrid Posse)",55.0,2,"Stockholm, Sweden",0
+164,1,1,"Lines, Mrs Ernest H. (Elizabeth Lindsey James)",50.0,2,"Paris, France",0
+165,1,1,"Lines, Miss Mary Conover",16.0,2,"Paris, France",0
+167,1,0,"Long, Mr Milton Clyde",29.0,1,"Springfield, MA",1
+168,1,1,"Longley, Miss Gretchen Fiske",21.0,1,"Hudson, NY",0
+169,1,0,"Loring, Mr Joseph Holland",30.0,1,"London / New York, NY",1
+170,1,1,"Madill, Miss Georgette Alexandra",15.0,1,"St Louis, MO",0
+171,1,0,"Maguire, Mr John Edward",30.0,1,"Brockton, MA",1
+172,1,1,"Marechal, Mr Pierre",,2,"Paris, France",1
+173,1,0,"Marvin, Mr Daniel Warner",,1,"New York, NY",1
+174,1,1,"Marvin, Mrs Daniel Warner (Mary Graham Carmichael Farquarson)",,1,"New York, NY",0
+175,1,0,"McCaffry, Mr Thomas Francis",46.0,2,"Vancouver, BC",1
+176,1,0,"McCarthy, Mr Timothy J.",54.0,1,"Dorchester, MA",1
+177,1,1,"McGough, Mr James R.",36.0,1,"Philadelphia, PA",1
+178,1,0,"Meyer, Mr Edgar Joseph",28.0,2,"New York, NY",1
+179,1,1,"Meyer, Mrs Edgar Joseph (Leila Saks)",,2,"New York, NY",0
+180,1,0,"Millet, Mr Francis Davis",65.0,1,"East Bridgewater, MA",1
+181,1,1,"Minahan, Miss Daisy E.",33.0,3,"Green Bay, WI",0
+182,1,0,"Minahan, Dr William Edward",44.0,3,"Fond du Lac, WI",1
+183,1,1,"Minahan, Mrs William Edward (Lillian E. Thorpe)",37.0,3,"Fond du Lac, WI",0
+184,1,1,"Mock, Mr Philip E.",,2,"New York, NY",1
+185,1,0,"Molson, Mr Harry Markland",55.0,1,"Montreal, PQ",1
+186,1,0,"Moore, Mr Clarence Bloomfield",47.0,1,"Washington, DC",1
+187,1,0,"Natsch, Mr Charles H.",36.0,2,"Brooklyn, NY",1
+188,1,0,"Newell, Mr Arthur Webster",58.0,2,"Lexington, MA",1
+189,1,1,"Newell, Miss Madeleine",31.0,2,"Lexington, MA",0
+190,1,1,"Newell, Miss Marjorie",23.0,2,"Lexington, MA",0
+191,1,1,"Newsom, Miss Helen Monypeny",19.0,1,"New York, NY",0
+192,1,0,"Nicholson, Mr Arthur Ernest",64.0,1,"Isle of Wight, England",1
+193,1,1,"Omont, Mr A. Fernand",,2,"Paris, France",1
+194,1,0,"Ostby, Mr Engelhart Cornelius",64.0,2,"Providence, RI",1
+195,1,1,"Ostby, Miss Helen Raghnild",22.0,2,"Providence, RI",0
+198,1,0,"Partner, Mr Austin",,1,"Surbiton Hill, Surrey",1
+199,1,0,"Payne, Mr Vivian Ponsonby",22.0,1,"Montreal, PQ",1
+200,1,0,"Pears, Mr Thomas",,1,"Isleworth, England",1
+201,1,1,"Pears, Mrs Thomas (Edith)",,1,"Isleworth, England",0
+202,1,0,"Penasco, Mr Victor de Satode",18.0,2,"Madrid, Spain",1
+203,1,1,"Penasco, Mrs Victor de Satode (Josefa de Soto)",17.0,2,"Madrid, Spain",0
+204,1,1,"Peuchen, Major Arthur Godfrey",52.0,1,"Toronto, ON",1
+205,1,0,"Porter, Mr Walter Chamberlain",46.0,1,"Worcester, MA",1
+206,1,1,"Potter, Mrs Thomas, Jr. (Lily Alexenia Wilson)",56.0,2,"Mt Airy, Philadelphia, PA",0
+207,1,0,"Reuchlin, Jonkheer John George",,1,"Rotterdam, Netherlands",1
+208,1,1,"Rheims, Mr George Lucien",,2,"Paris /  New York, NY",1
+209,1,1,"Robert, Mrs Edward Scott (Elisabeth Walton McMillan)",43.0,1,"St Louis, MO",0
+210,1,0,"Roebling, Mr Washington Augustus 2nd",31.0,1,"Trenton, NJ",1
+211,1,1,"Romaine, Mr Charles Hallace",,1,"New York, NY",1
+212,1,0,"Rood, Mr Hugh R.",,1,"Seattle, WA",1
+213,1,1,"Rosenbaum (Russell), Miss Edith Louise",33.0,2,"Paris, France",0
+214,1,0,"Ross, Mr John Hugo",,2,"Winnipeg, MB",1
+215,1,1,"Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes)",27.0,1,"London  Vancouver, BC",0
+216,1,0,"Rothschild, Mr Martin",55.0,2,"New York, NY",1
+217,1,1,"Rothschild, Mrs Martin (Elizabeth L. Barrett)",54.0,2,"New York, NY",0
+218,1,0,"Rowe, Mr Alfred G.",,1,London,1
+219,1,0,"Ryerson, Mr Arthur Larned",61.0,2,"Haverford, PA / Cooperstown, NY",1
+220,1,1,"Ryerson, Mrs Arthur Larned (Emily Maria Borie)",48.0,2,"Haverford, PA / Cooperstown, NY",0
+221,1,1,"Ryerson, Miss Emily Borie",18.0,2,"Haverford, PA / Cooperstown, NY",0
+222,1,1,"Ryerson, Master John Borie",13.0,2,"Haverford, PA / Cooperstown, NY",1
+223,1,1,"Ryerson, Miss Susan (Suzette) Parker",21.0,2,"Haverford, PA / Cooperstown, NY",0
+224,1,1,"Saalfeld, Mr Adolphe",,1,"Manchester, England",1
+225,1,1,"Salomon, Mr Abraham L.",,1,"New York, NY",1
+226,1,1,"Schabert, Mrs Paul (Emma Mock)",,2,"New York, NY",0
+227,1,1,"Seward, Mr Frederic Kimber",34.0,1,"New York, NY",1
+228,1,1,"Shutes, Miss Elizabeth W.",40.0,1,"New York, NY / Greenwich CT",0
+229,1,1,"Silverthorne, Mr Spencer Victor",36.0,1,"St Louis, MO",1
+233,1,1,"Sloper, Mr William Thompson",28.0,1,"New Britain, CT",1
+234,1,0,"Smart, Mr John Montgomery",56.0,1,"New York, NY",1
+235,1,0,"Smith, Mr James Clinch",56.0,2,"St James, Long Island, NY",1
+236,1,0,"Smith, Mr Lucien Philip",24.0,1,"Huntington, WV",1
+237,1,1,"Smith, Mrs Lucien Philip (Mary Eloise Hughes",18.0,1,"Huntington, WV",0
+238,1,0,"Smith, Mr Richard William",,1,"Streatham, Surrey",1
+239,1,1,"Snyder, Mr John Pillsbury",24.0,1,"Minneapolis, MN",1
+240,1,1,"Snyder, Mrs John Pillsbury (Nelle Stevenson)",23.0,1,"Minneapolis, MN",0
+241,1,1,"Spedden, Mr Frederick Oakley",45.0,2,"Tuxedo Park, NY",1
+242,1,1,"Spedden, Mrs Frederick Oakley (Margaretta Corning Stone)",40.0,2,"Tuxedo Park, NY",0
+243,1,1,"Spedden, Master Robert Douglas",6.0,2,"Tuxedo Park, NY",1
+244,1,0,"Spencer, Mr William Augustus",57.0,2,"Paris, France",1
+245,1,1,"Spencer, Mrs William Augustus (Marie Eugenie)",,2,"Paris, France",0
+246,1,1,"Staehlin, Dr Max",32.0,2,"Basel, Switzerland",1
+247,1,0,"Stead, Mr William Thomas",62.0,1,"Wimbledon Park, London / Hayling Island, Hants",1
+248,1,1,"Stengel, Mr Charles Emil Henry",54.0,2,"Newark, NJ",1
+249,1,1,"Stengel, Mrs Charles Emil Henry (Annie May Morris)",43.0,2,"Newark, NJ",0
+251,1,0,"Stewart, Mr Albert A.",,2,"Gallipolis, Ohio / ? Paris / New York",1
+253,1,0,"Straus, Mr Isidor",67.0,1,"New York, NY",1
+254,1,0,"Straus, Mrs Isidor (Ida Blun)",63.0,1,"New York, NY",0
+255,1,0,"Sutton, Mr Frederick",61.0,1,"Haddenfield, NJ",1
+256,1,1,"Swift, Mrs Frederick Joel (Margaret Welles Barron)",46.0,1,"Brooklyn, NY",0
+257,1,0,"Taussig, Mr Emil",52.0,1,"New York, NY",1
+258,1,1,"Taussig, Mrs Emil (Tillie Mandelbaum)",39.0,1,"New York, NY",0
+259,1,1,"Taussig, Miss Ruth",18.0,1,"New York, NY",0
+260,1,1,"Taylor, Mr Elmer Zebley",48.0,1,"London /  East Orange, NJ",1
+261,1,1,"Taylor, Mrs Elmer Zebley (Juliet Cummins Wright)",,1,"London /  East Orange, NJ",0
+262,1,0,"Thayer, Mr John Borland",49.0,2,"Haverford, PA",1
+263,1,1,"Thayer, Mrs John Borland (Marian Longstreth Morris)",39.0,2,"Haverford, PA",0
+264,1,1,"Thayer, Mr John Borland, jr.",17.0,2,"Haverford, PA",1
+265,1,0,"Thorne, Mr George (alias of: Mr George Rosenshine)",46.0,2,"New York, NY",1
+266,1,1,"Thorne, Mrs Gertrude Maybelle",,2,"New York, NY",0
+267,1,1,"Tucker, Mr Gilbert Milligan, jr",31.0,2,"Albany, NY",1
+268,1,0,"Uruchurtu, Mr Manuel E.",,2,"Mexico City, Mexico",1
+269,1,0,"Van Derhoef, Mr Wyckoff",61.0,1,"Brooklyn, NY",1
+270,1,0,"Walker, Mr William Anderson",47.0,1,"East Orange, NJ",1
+271,1,0,"Warren, Mr Frank Manley",64.0,2,"Portland, OR",1
+272,1,1,"Warren, Mrs Frank Manley (Anna S. Atkinson)",60.0,2,"Portland, OR",0
+273,1,0,"Weir, Col John",60.0,1,"England Salt Lake City, Utah",1
+274,1,1,"White, Mrs J. Stuart (Ella Holmes)",55.0,2,"New York, NY / Briarcliff Manor NY",0
+275,1,0,"White, Mr Percival Wayland",54.0,1,"Brunswick, ME",1
+276,1,0,"White, Mr Richard Frasar",21.0,1,"Brunswick, ME",1
+277,1,0,"Wick, Mr George Dennick",57.0,1,"Youngstown, OH",1
+278,1,1,"Wick, Mrs George Dennick (Martha Hitchcock)",45.0,1,"Youngstown, OH",0
+279,1,1,"Wick, Miss Mary Natalie",31.0,1,"Youngstown, OH",0
+280,1,0,"Widener, Mr George Dunton",50.0,2,"Elkins Park, PA",1
+281,1,1,"Widener, Mrs George Dunton (Eleanor Elkins)",50.0,2,"Elkins Park, PA",0
+282,1,0,"Widener, Mr Harry Elkins",27.0,2,"Elkins Park, PA",1
+283,1,1,"Willard, Miss Constance",20.0,1,"Duluth, MN",0
+284,1,0,"Williams, Mr Charles Duane",51.0,2,"Geneva, Switzerland / Radnor, PA",1
+285,1,0,"Williams, Mr Fletcher Lambert",,1,"London, England",1
+286,1,1,"Williams, Mr Richard Norris II",21.0,2,"Geneva, Switzerland / Radnor, PA",1
+287,1,1,"Woolner, Mr Hugh",,1,"London, England",1
+288,1,0,"Wright, Mr George",,1,"Halifax, NS",1
+289,1,1,"Young, Miss Marie Grice",36.0,2,"New York, NY / Washington, DC",0
+299,1,1,"Endres, Miss Caroline Louise",,2,"New York, NY",0
+323,2,0,"Abelson, Mr Samuel",30.0,2,"Russia New York, NY",1
+324,2,1,"Abelson, Mrs Samuel (Anna)",28.0,2,"Russia New York, NY",0
+325,2,0,"Andrew, Mr Edgar Samuel",18.0,1,"Buenos Aires, Argentina / New Jersey, NJ",1
+326,2,0,"Andrew, Mr Frank",,1,"Cornwall, England Houghton, MI",1
+327,2,0,"Angle, Mr William A.",34.0,1,"Warwick, England",1
+328,2,1,"Angle, Mrs William A. (Florence)",32.0,1,"Warwick, England",0
+329,2,0,"Ashby, Mr John",57.0,1,"West Hoboken, NJ",1
+330,2,0,"Bailey, Mr Percy Andrew",18.0,1,"Penzance, Cornwall / Akron, OH",1
+331,2,0,"Baimbrigge, Mr Charles R.",23.0,1,Guernsey,1
+332,2,1,"Balls, Mrs Ada E. Hall",36.0,1,"Bristol, Avon / Jacksonville, FL",0
+333,2,0,"Banfield, Mr Frederick J.",28.0,1,"Plymouth, Dorset / Houghton, MI",1
+334,2,0,"Bateman, Rev Robert James",51.0,1,"Jacksonville, FL",1
+335,2,1,"Beane, Mr Edward",32.0,1,"Norwich / New York, NY",1
+336,2,1,"Beane, Mrs Edward (Ethel Clarke)",19.0,1,"Norwich / New York, NY",0
+337,2,0,"Beauchamp, Mr Henry James",28.0,1,England,1
+338,2,1,"Becker, Mrs Allen Oliver (Nellie E. Baumgardner)",36.0,1,"Guntur, India / Benton Harbour, MI",0
+339,2,1,"Becker, Miss Marion Louise",4.0,1,"Guntur, India / Benton Harbour, MI",0
+340,2,1,"Becker, Master Richard F.",1.0,1,"Guntur, India / Benton Harbour, MI",1
+341,2,1,"Becker, Miss Ruth Elizabeth",12.0,1,"Guntur, India / Benton Harbour, MI",0
+342,2,1,"Beesley, Mr Lawrence",34.0,1,London,1
+343,2,1,"Bentham, Miss Lilian W.",19.0,1,"Rochester, NY",0
+344,2,0,"Berriman, Mr William S.",23.0,1,"St Ives, Cornwall / Calumet, MI",1
+345,2,0,"Botsford, Mr William Hull",26.0,1,"Elmira, NY / Orange, NJ",1
+346,2,0,"Bowenur, Mr Solomon",,1,London,1
+347,2,0,"Bracken, Mr James H.",27.0,1,"Lake Arthur, Chavez County, NM",1
+348,2,1,"Brown, Miss Edith E.",15.0,1,"Cape Town, South Africa / Seattle, WA",0
+349,2,0,"Brown, Mr Thomas William Solomon",45.0,1,"Cape Town, South Africa / Seattle, WA",1
+350,2,1,"Brown, Mrs Thomas William Solomon (Elizabeth C.)",40.0,1,"Cape Town, South Africa / Seattle, WA",0
+351,2,1,"Bryhl, Miss Dagmar",20.0,1,"Skara, Sweden / Rockford, IL",0
+352,2,0,"Bryhl, Mr Kurt Arnold Gottfrid",25.0,1,"Skara, Sweden / Rockford, IL",1
+353,2,1,"Buss, Miss Kate",36.0,1,"Sittingbourne, England / San Diego, CA",0
+354,2,0,"Butler, Mr Reginald Fenton",25.0,1,"Southsea, Hants",1
+355,2,0,"Byles, Rev. Thomas Roussel D.",,1,London,1
+356,2,1,"Bystrom, Mrs Carolina",42.0,1,"New York, NY",0
+357,2,1,"Caldwell, Mr Albert Francis",26.0,1,"Bangkok, Thailand / Roseville, IL",1
+358,2,1,"Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh)",26.0,1,"Bangkok, Thailand / Roseville, IL",0
+359,2,1,"Caldwell, Master Alden Gates",0.8333,1,"Bangkok, Thailand / Roseville, IL",1
+360,2,1,"Cameron, Miss Clear",31.0,1,"Mamaroneck, NY",0
+362,2,0,"Carbines, Mr William",19.0,1,"St Ives, Cornwall / Calumet, MI",1
+363,2,0,"Carter, Rev Ernest Courtenay",54.0,1,London,1
+364,2,0,"Carter, Mrs Ernest Courtenay (Lillian Hughes)",44.0,1,London,0
+365,2,0,"Chapman, Mr Charles Henry",52.0,1,"Bronx, NY",1
+366,2,0,"Chapman, Mr John Henry",30.0,1,"Cornwall / Spokane, WA",1
+367,2,0,"Chapman, Mrs John Henry (Elizabeth Lawry)",30.0,1,"Cornwall / Spokane, WA",0
+368,2,1,"Christy, Mrs Alice Frances",,1,London,0
+369,2,1,"Christy, Miss Julie",,1,London,0
+370,2,0,"Clarke, Mr Charles V.",29.0,1,"England / San Francisco, CA",1
+371,2,1,"Clarke, Mrs Charles V. (Ada Maria)",,1,"England / San Francisco, CA",0
+372,2,0,"Coleridge, Mr Reginald Charles",29.0,1,"Hartford, Huntingdonshire",1
+373,2,0,"Collander, Mr Erik",27.0,1,"Helsinki, Finland Ashtabula, Ohio",1
+374,2,1,"Collett, Mr Sidney C. Stuart",24.0,1,"London / Fort Byron, NY",1
+375,2,0,"Collyer, Mr Harvey",35.0,1,"Bishopstoke, Hants / Fayette Valley, ID",1
+376,2,1,"Collyer, Mrs Harvey (Charlotte Tate)",31.0,1,"Bishopstoke, Hants / Fayette Valley, ID",0
+377,2,1,"Collyer, Miss Marjorie",8.0,1,"Bishopstoke, Hants / Fayette Valley, ID",0
+378,2,0,"Cook, Mrs Selena Rogers",22.0,1,Pennsylvania,0
+379,2,0,"Corbett, Mrs Walter H. (Irene Colvin)",30.0,1,"Provo, UT",0
+380,2,0,"Corey, Mrs Percy C. (Mary Phyllis Elizabeth Miller)",,1,"Upper Burma, India Pittsburgh, PA",0
+381,2,0,"Cotterill, Mr Harry",20.0,1,"Penzance, Cornwall / Akron, OH",1
+383,2,0,"Davies, Mr Charles Henry",21.0,1,"Lyndhurst, England",1
+384,2,1,"Davis, Mrs Agnes",49.0,1,"St Ives, Cornwall / Hancock, MI",0
+385,2,1,"Davis, Master John Morgan",8.0,1,"St Ives, Cornwall / Hancock, MI",1
+386,2,1,"Davis, Miss Mary",28.0,1,"London / Staten Island, NY",0
+389,2,0,"del Carlo, Mr Sebastiano",28.0,2,"Lucca, Italy / California",1
+390,2,1,"del Carlo, Mrs Sebastiano (Argenia Genovese)",22.0,2,"Lucca, Italy / California",0
+391,2,0,"Denbury, Mr Herbert",25.0,1,"Guernsey / Elizabeth, NJ",1
+392,2,0,"Dibden, Mr William",18.0,1,"New Forest, England",1
+393,2,1,"Doling, Mrs Ada",32.0,1,Southampton,0
+394,2,1,"Doling, Miss Elsie",18.0,1,Southampton,0
+395,2,0,"Downton (?Douton), Mr William James",,1,"Holley, NY",1
+396,2,0,"Drew, Mr James Vivian",42.0,1,"Greenport, NY",1
+397,2,1,"Drew, Mrs James Vivian (Lulu Thorne Christian)",34.0,1,"Greenport, NY",0
+398,2,1,"Drew, Master Marshall Brines",8.0,1,"Greenport, NY",1
+399,2,1,"Duran y More, Miss Asuncion",,2,"Barcelona, Spain / Havana, Cuba",0
+400,2,1,"Duran y More, Miss Florentina",,2,"Barcelona, Spain / Havana, Cuba",0
+401,2,0,"Eitemiller, Mr George Floyd",23.0,1,"England / Detroit, MI",1
+402,2,0,"Enander, Mr Ingvar",21.0,1,"Goteborg, Sweden / Rockford, IL",1
+403,2,0,"Fahlstrom, Mr Arne Jonas",19.0,1,"Oslo, Norway Bayonne, NJ",1
+404,2,0,"Faunthorpe, Mr Harry",,1,"England / Philadelphia, PA",1
+406,2,0,"Fillbrook, Mr Charles",,1,"Cornwall / Houghton, MI",1
+407,2,0,"Fox, Mr Stanley H.",38.0,1,"Rochester, NY",1
+409,2,0,"Funk, Miss Annie C.",38.0,1,"Janjgir, India / Pennsylvania",0
+410,2,0,"Fynney, Mr Joseph J.",35.0,1,"Liverpool / Montreal, PQ",1
+411,2,0,"Gale, Mr Harry",35.0,1,"Cornwall / Clear Creek, CO",1
+412,2,0,"Gale, Mr Shadrach",38.0,1,"Cornwall / Clear Creek, CO",1
+413,2,1,"Garside, Miss Ethel",24.0,1,"Brooklyn, NY",0
+414,2,0,"Gaskell, Mr Alfred",16.0,1,"Liverpool / Montreal, PQ",1
+415,2,0,"Gavey, Mr Lawrence",26.0,1,"Guernsey / Elizabeth, NJ",1
+416,2,0,"Gilbert, Mr William",45.0,1,Cornwall,1
+417,2,0,"Giles, Mr Edgar",24.0,1,"Cornwall / Camden, NJ",1
+418,2,0,"Giles, Mr Frederick",21.0,1,"Cornwall / Camden, NJ",1
+419,2,0,"Giles, Mr Ralph",22.0,1,"West Kensington, London",1
+420,2,0,"Gill, Mr John W.",,1,"Clevedon, England",1
+421,2,0,"Gillespie, Mr William",34.0,1,"Vancouver, BC",1
+423,2,0,"Greenberg, Mr Samuel",50.0,1,"Bronx, NY",1
+424,2,0,"Hale, Mr Reginald",30.0,1,"Auburn, NY",1
+425,2,1,"Hamalainen, Mrs William (Anna)",23.0,1,"Detroit, MI",0
+426,2,1,"Hamalainen, Master Viljo",1.0,1,"Detroit, MI",1
+427,2,0,"Harbeck, Mr William H.",44.0,1,"Seattle, WA / Toledo, OH",1
+428,2,0,"Harper, Rev John",28.0,1,"Denmark Hill, Surrey / Chicago",1
+429,2,1,"Harper, Miss Nina",6.0,1,"Denmark Hill, Surrey / Chicago",0
+430,2,1,"Harris, Mr George",30.0,1,London,1
+431,2,0,"Harris, Mr Walter",,1,"Walthamstow, England",1
+432,2,0,"Hart, Mr Benjamin",43.0,1,"Ilford, Essex / Winnipeg, MB",1
+433,2,1,"Hart, Mrs Benjamin (Esther)",45.0,1,"Ilford, Essex / Winnipeg, MB",0
+434,2,1,"Hart, Miss Eva Miriam",7.0,1,"Ilford, Essex / Winnipeg, MB",0
+435,2,1,"Herman, Miss Alice",24.0,1,"Somerset / Bernardsville, NJ",0
+436,2,1,"Herman, Miss Kate",24.0,1,"Somerset / Bernardsville, NJ",0
+437,2,0,"Herman, Mr Samuel",49.0,1,"Somerset / Bernardsville, NJ",1
+438,2,1,"Herman, Mrs Samuel (Jane Laver)",48.0,1,"Somerset / Bernardsville, NJ",0
+439,2,1,"Hewlett, Mrs Mary D.",,1,"India / Rapid City, SD",0
+440,2,0,"Hickman, Mr Leonard Mark",34.0,1,"West Hampstead, London / Neepawa, MB",1
+441,2,0,"Hickman, Mr Lewis",32.0,1,"West Hampstead, London / Neepawa, MB",1
+442,2,0,"Hickman, Mr Stanley George",21.0,1,"West Hampstead, London / Neepawa, MB",1
+443,2,0,"Hiltunen, Miss Marta",18.0,1,"Kontiolahti, Finland / Detroit, MI",0
+444,2,1,"Hocking, Mrs Elizabeth",53.0,1,"Cornwall / Akron, OH",0
+445,2,0,"Hocking, Mr George",23.0,1,"Cornwall / Akron, OH",1
+446,2,1,"Hocking, Miss Ellen (Nellie)",21.0,1,"Cornwall / Akron, OH",0
+447,2,0,"Hocking, Mr Samuel James",,1,"Devonport, England",1
+448,2,0,"Hodges, Mr Henry Price",52.0,1,Southampton,1
+449,2,0,"Hold, Mr Stephen",42.0,1,"England / Sacramento, CA",1
+450,2,1,"Hold, Mrs Stephen (Annie Margaret)",36.0,1,"England / Sacramento, CA",0
+451,2,0,"Hood, Mr Ambrose, Jr",21.0,1,"New Forest, England",1
+452,2,1,"Hosono, Mr Masafumi",41.0,1,"Tokyo, Japan",1
+453,2,0,"Howard, Mr Benjamin",,1,"Swindon, England",1
+454,2,0,"Howard, Mrs Benjamin (Ellen Truelove)",,1,"Swindon, England",0
+455,2,0,"Hunt, Mr George Henry",33.0,1,"Philadelphia, PA",1
+456,2,1,"Ilett, Miss Bertha",17.0,1,Guernsey,0
+457,2,0,Jacobsohn Mr Sidney Samuel,,1,London,1
+458,2,1,"Jacobsohn, Mrs Sidney Samuel (Amy Frances Christy)",,1,London,0
+459,2,0,"Jarvis, Mr John Denzil",,1,"North Evington, England",1
+460,2,0,"Jefferys, Mr Clifford",,1,"Guernsey / Elizabeth, NJ",1
+461,2,0,"Jefferys, Mr Ernest",,1,"Guernsey / Elizabeth, NJ",1
+462,2,0,"Jenkin, Mr Stephen Curnow",,1,"St Ives, Cornwall / Houghton, MI",1
+463,2,1,"Jerwan, Mrs Amin S. (Marie Thuillard)",23.0,2,"New York, NY",0
+464,2,0,"Kantor, Mr Sinai",34.0,1,"Moscow / Bronx, NY",1
+465,2,1,"Kantor, Mrs Sinai (Miriam Sternim)",,1,"Moscow / Bronx, NY",0
+466,2,0,"Karnes, Mrs J. Frank (Claire Bennett)",22.0,1,"India / Pittsburgh, PA",0
+468,2,1,"Keane, Miss Nora A.",,3,"Harrisburg, PA",0
+469,2,1,"Kelly, Mrs Florence (Fannie)",45.0,1,"London / New York, NY",0
+470,2,0,"Kirkland, Rev Charles Leonard",,3,"Glasgow / Bangor, ME",1
+472,2,0,"Kvillner, Mr Johan Henrik Johannesson",31.0,1,"Sweden / Arlington, NJ",1
+473,2,0,"Lahtinen, Rev William",30.0,1,"Minneapolis, MN",1
+474,2,0,"Lahtinen, Mrs William (Anna Sylvan)",26.0,1,"Minneapolis, MN",0
+476,2,1,"Lemore, Mrs Amelia",34.0,1,"Chicago, IL",0
+477,2,0,"LaRoche, Mr Joseph",26.0,2,Paris / Haiti,1
+478,2,1,"LaRoche, Mrs Joseph (Juliet)",22.0,2,Paris / Haiti,0
+479,2,1,"LaRoche, Miss Louise",1.0,2,Paris / Haiti,0
+480,2,1,"LaRoche, Miss Simonne",3.0,2,Paris / Haiti,0
+481,2,1,"Lehmann, Miss Bertha",,2,"Berne, Switzerland / Central City, IA",0
+482,2,1,"Leitch, Miss Jessie",,1,"London / Chicago, IL",0
+483,2,0,"Levy, Mr Rene Jacques",,2,"Montreal, PQ",1
+486,2,0,"Louch, Mr Charles Alexander",48.0,1,"Weston-Super-Mare, Somerset",1
+487,2,1,"Louch, Mrs Charles Alexander (Alice Adelaide)",,1,"Weston-Super-Mare, Somerset",0
+488,2,0,"Mack, Mrs Mary",57.0,1,"Southampton / New York, NY",0
+489,2,0,"Malachard, Mr Noel",,2,Paris,1
+490,2,0,"Mallet, Mr Albert",,2,"Paris / Montreal, PQ",1
+491,2,1,"Mallet, Mrs Albert (Antoinette)",,2,"Paris / Montreal, PQ",0
+492,2,1,"Mallet, Master Andre",2.0,2,"Paris / Montreal, PQ",1
+493,2,0,"Mangiavacchi, Mr Serafino Emilio",,2,"New York, NY",1
+494,2,0,"Mantvila, Rev Joseph",27.0,1,"Worcester, MA",1
+495,2,1,"Marshall, Mrs Kate Louise Phillips",19.0,1,"Worcester, England",0
+496,2,0,"Matthews, Mr William John",30.0,1,"St Austall, Cornwall",1
+497,2,0,"Maybery, Mr Frank H.",20.0,1,"Weston-Super-Mare / Moose Jaw, SK",1
+498,2,0,"McCrae, Mr Arthur Gordon",45.0,1,"Sydney, Australia",1
+499,2,0,"McCrie, Mr James Matthew",,1,"Sarnia, ON",1
+500,2,0,"McKane, Mr Peter D.",46.0,1,"Rochester, NY",1
+501,2,1,"Mellenger, Mrs Elizabeth Anne",41.0,1,"England / Bennington, VT",0
+502,2,1,"Mellenger, Miss Madeleine Violet",13.0,1,"England / Bennington, VT",0
+503,2,1,"Mellor, Mr William John",19.0,1,"Chelsea, London",1
+504,2,0,"Meyer, Mr August",30.0,1,"Harrow-on-the-Hill, Middlesex",1
+505,2,0,"Milling, Mr Jacob Christian",48.0,1,"Copenhagen, Denmark",1
+506,2,0,"Mitchell, Mr Henry Michael",71.0,1,"Guernsey / Montclair, NJ and/or Toledo, Ohio",1
+507,2,0,"Moraweck, Dr Ernest",54.0,1,"Frankfort, KY",1
+508,2,0,"Morley, Mr William",,1,"Petworth, Sussex",1
+509,2,0,"Mudd, Mr Thomas C.",,1,"Halesworth, England",1
+510,2,0,"Myles, Mr Thomas Francis",64.0,3,"Cambridge, MA",1
+511,2,0,"Nasser (Nasrallah), Mr Nicholas",32.0,2,"New York, NY",1
+512,2,1,"Nasser (Nasrallah), Mrs Nicholas",18.0,2,"New York, NY",0
+513,2,1,"Navratil, Master Edmond Roger",2.0,1,"Nice, France",1
+514,2,0,"Navratil, Mr Michel",32.0,1,"Nice, France",1
+515,2,1,"Navratil, Master Michel M.",3.0,1,"Nice, France",1
+516,2,0,"Nesson, Mr Israel",26.0,1,"Boston, MA",1
+517,2,0,"Nicholls, Mr Joseph Charles",19.0,1,"Cornwall / Hancock, MI",1
+518,2,0,"Norman, Mr Robert Douglas",,1,Glasgow,1
+519,2,1,"Nourney, Mr Alfred (aka Baron von Drachstedt)",20.0,2,"Cologne, Germany",1
+520,2,1,"Nye, Mrs Elizabeth Ramell",29.0,1,"Folkstone, Kent / New York, NY",0
+521,2,0,"Otter, Mr Richard",39.0,1,"Middleburg Heights, OH",1
+522,2,1,"Oxenham, Mr Percy Thomas",22.0,1,"Pondersend, England / New Durham, NJ",1
+523,2,1,"Padro y Manent, Mr Julian",,2,"Spain / Havana, Cuba",1
+524,2,0,"Pain, Dr Alfred",24.0,1,"Hamilton, ON",1
+525,2,1,"Pallas y Castello, Mr Emilio",,2,"Spain / Havana, Cuba",1
+526,2,0,"Parker, Mr Clifford R.",28.0,1,"St Andrews, Guernsey",1
+528,2,1,"Parrish, Mrs Lutie Davis",50.0,1,"Woodford County, KY",0
+529,2,0,"Pengelly, Mr Frederick",20.0,1,"Gunnislake, England / Butte, MT",1
+531,2,1,"Phillips, Miss Alice",42.0,1,"Ilfracombe, Devon",0
+532,2,0,"Phillips, Mr Robert",21.0,1,"Ilfracombe, Devon",1
+533,2,1,"Pinsky, Miss Rosa",32.0,1,Russia,0
+534,2,0,"Ponesell, Mr Martin",34.0,1,"Denmark / New York, NY",1
+535,2,1,"Portaluppi, Mr Emilio",,2,"Milford, NH",1
+536,2,0,"Pulbaum, Mr Frank",,2,Paris,1
+537,2,1,"Quick, Mrs Frederick C. (Jane Richards)",33.0,1,"Plymouth, Devon / Detroit, MI",0
+538,2,1,"Quick, Miss Phyllis May",2.0,1,"Plymouth, Devon / Detroit, MI",0
+539,2,1,"Quick, Miss Winifred Vera",8.0,1,"Plymouth, Devon / Detroit, MI",0
+540,2,0,"Reeves, Mr David",36.0,1,"Brighton, Sussex",1
+541,2,0,"Renouf, Mr Peter Henry",34.0,1,"Elizabeth, NJ",1
+542,2,1,"Renouf, Mrs Peter Henry (Lillian Jefferys)",30.0,1,"Elizabeth, NJ",0
+543,2,1,"Reynaldo, Mrs Encarnacion",28.0,1,Spain,0
+544,2,0,"Richard, Mr Emil",23.0,2,"Paris / Montreal, PQ",1
+545,2,1,"Richards, Master George Sidney",0.8333,1,"Cornwall / Akron, OH",1
+546,2,1,"Richards, Mrs Sidney (Emily Hocking)",25.0,1,"Cornwall / Akron, OH",0
+547,2,1,"Richards, Master William Rowe",3.0,1,"Cornwall / Akron, OH",1
+548,2,1,"Ridsdale, Miss Lucy",50.0,1,"London, England / Marietta, Ohio and Milwaukee, WI",0
+550,2,1,"Rugg, Miss Emily",21.0,1,"Guernsey / Wilmington, DE",0
+551,2,0,"Sedgwick, Mr Charles Frederick Waddington",,1,Liverpool,1
+552,2,0,"Sharp, Mr Percival",,1,"Hornsey, England",1
+553,2,1,"Shelley, Mrs William (Imanita)",25.0,1,"Deer Lodge, MT",0
+554,2,1,"Silven, Miss Lyyli",18.0,1,"Finland / Minneapolis, MN",0
+555,2,1,"Sincock, Miss Maude",20.0,1,"Cornwall / Hancock, MI",0
+556,2,1,"Siukonnen, Miss Anna",30.0,1,"Finland / Washington, DC",0
+557,2,0,"Sjostedt, Mr Ernst Adolf",59.0,1,"Sault St Marie, ON",1
+558,2,1,"Slayter, Miss Hilda Mary",30.0,3,"Halifax, NS",0
+559,2,0,"Slemen, Mr Richard James",35.0,1,Cornwall,1
+560,2,0,"Smith (Schmidt), Mr Augustus",22.0,1,"Newark, NJ",1
+562,2,0,"Sobey, Mr Hayden",25.0,1,"Cornwall / Houghton, MI",1
+563,2,0,"Stanton, Mr Samuel Ward",41.0,2,"New York, NY",1
+564,2,0,"Stokes, Mr Philip Joseph",25.0,1,"Catford, Kent / Detroit, MI",1
+565,2,0,"Sweet, Mr George",14.0,1,"Somerset / Bernardsville, NJ",1
+566,2,1,"Toomey, Miss Ellen",50.0,1,"Indianapolis, IN",0
+568,2,1,"Trout, Mrs William H. (Jessie L.)",,1,"Columbus, OH",0
+569,2,1,"Troutt, Miss Edwina Celia",27.0,1,"Bath, England / Massachusetts",0
+570,2,0,"Turpin, Mr William John",29.0,1,"Plymouth, England",1
+571,2,0,"Turpin, Mrs William John (Dorothy Anne Wonnacott)",27.0,1,"Plymouth, England",0
+572,2,0,"Veale, Mr James",30.0,1,"Barre, Co Washington, VT",1
+573,2,0,"Waelens, Mr Achille",22.0,1,"Antwerp, Belgium / Stanton, OH",1
+574,2,1,"Walcroft, Miss Nellie",35.0,1,"Mamaroneck, NY",0
+575,2,0,"Ware, Mr John James",30.0,1,"Bristol, England / New Britain, CT",1
+576,2,1,"Ware, Mrs John James (Florence Louise Long)",28.0,1,"Bristol, England / New Britain, CT",0
+578,2,0,"Watson, Mr Ennis Hastings",,1,Belfast,1
+579,2,1,"Watt, Miss Bertha",12.0,1,"Aberdeen / Portland, OR",0
+580,2,1,"Watt, Mrs James (Bessie Inglis Milne)",40.0,1,"Aberdeen / Portland, OR",0
+581,2,1,"Webber, Miss Susan",36.0,1,"England / Hartford, CT",0
+582,2,0,"Weisz, Mr Leopold",28.0,1,"Bromsgrove, England / Montreal, PQ",1
+583,2,1,"Weisz, Mrs Leopold (Mathilde)",32.0,1,"Bromsgrove, England / Montreal, PQ",0
+584,2,1,"Wells, Mrs Arthur H. (Addie Trevaskis)",29.0,1,"Cornwall / Akron, OH",0
+585,2,1,"Wells, Miss Joan",4.0,1,"Cornwall / Akron, OH",0
+586,2,1,"Wells, Master Ralph Lester",2.0,1,"Cornwall / Akron, OH",1
+587,2,1,"West, Miss Barbara J.",,1,"Bournmouth, England",0
+588,2,1,"West, Miss Constance Mirium",,1,"Bournmouth, England",0
+589,2,0,"West, Mr Edwy Arthur",36.0,1,"Bournmouth, England",1
+590,2,1,"West, Mrs Edwy Arthur (Ada Mary)",33.0,1,"Bournmouth, England",0
+591,2,0,"Wheadon, Mr Edward",,1,"Guernsey, England / Edgewood, RI",1
+594,2,1,"Wilhelms, Mr Charles",32.0,1,"London, England",1
+595,2,1,"Wilkinson, Mrs Elizabeth Anne",,1,"Manchester, England",0
+596,2,1,"Williams, Mr Charles Eugene",,1,"Harrow, England",1
+597,2,1,"Wright, Miss Marion",26.0,1,"Yoevil, England / Cottage Grove, OR",0
+598,2,0,"Yrois, Miss Henriette",,1,Paris,0
+599,2,0,"Aldworth, Mr Charles Augustus",30.0,1,"Bryn Mawr, PA, USA",1
+600,2,1,"Brown, Miss Mildred",24.0,1,"London / Montreal, PQ",0
+604,3,0,"Abbott, Master Eugene Joseph",13.0,1,"East Providence, RI",1
+605,3,0,"Abbott, Mr Rossmore Edward",16.0,1,"East Providence, RI",1
+606,3,1,"Abbott, Mrs Stanton (Rosa)",35.0,1,"East Providence, RI",0
+607,3,1,"Abelseth, Miss Anna Karen",16.0,1,"Norway Los Angeles, CA",0
+608,3,1,"Abelseth, Mr Olaus",25.0,1,"Perkins County, SD",1
+609,3,1,"Abraham, Mrs Joseph (Sophie Easu)",18.0,2,"Greensburg, PA",0
+610,3,1,"Abrahamsson, Mr August",20.0,1,"Taalintehdas, Finland Hoboken, NJ",1
+611,3,0,"Adahl, Mr Mauritz Nils Martin",30.0,1,"Asarum, Sweden Brooklyn, NY",1
+612,3,0,"Adams, Mr John",26.0,1,"Bournemouth, England",1
+613,3,0,"Ahlin, Mrs Johanna Persdotter",40.0,1,"Sweden Akeley, MN",0
+615,3,0,"Aijo-Nirva, Mr Isak",41.0,1,"Finland Sudbury, ON",1
+616,3,1,"Aks, Mrs Sam (Leah Rosen)",18.0,1,"London, England Norfolk, VA",0
+617,3,1,"Aks, Master Philip",0.8333,1,"London, England Norfolk, VA",1
+618,3,0,"Alexander, Mr William",23.0,1,"England Albion, NY",1
+619,3,0,"Alhomaki, Mr Ilmari Rudolf",20.0,1,"Salo, Finland Astoria, OR",1
+620,3,0,"Ali, Mr William",25.0,1,Argentina,1
+621,3,0,"Allen, Mr William Henry",35.0,1,"Lower Clapton, Middlesex or Erdington, Birmingham",1
+622,3,0,"Allum, Mr Owen George",17.0,1,"Windsor, England New York, NY",1
+623,3,0,"Andersen, Mr Albert Karvin",32.0,1,"Bergen, Norway",1
+624,3,0,"Andersen, Mr Thor Olsvigen",20.0,1,"Oslo, Norway Cameron, WI",1
+625,3,0,"Andersson, Mr Anders Johan",39.0,1,"Sweden Winnipeg, MN",1
+626,3,0,"Andersson, Mrs Anders Johan (Alfrida K. Brogren)",39.0,1,"Sweden Winnipeg, MN",0
+627,3,0,"Andersson, Miss Ebba Iris",6.0,1,"Sweden Winnipeg, MN",0
+628,3,0,"Andersson, Miss Ellis Anna Maria",2.0,1,"Sweden Winnipeg, MN",0
+629,3,1,"Andersson, Miss Erna",17.0,1,"Ruotsinphyhtaa, Finland New York, NY",0
+630,3,0,"Andersson, Miss Ida Augusta Margareta",38.0,1,"Vadsbro, Sweden Ministee, MI",0
+631,3,0,"Andersson, Miss Ingeborg Constancia",9.0,1,"Sweden Winnipeg, MN",0
+632,3,0,"Andersson, Mr Johan Samuel",26.0,1,"Hartford, CT",1
+633,3,0,"Andersson, Miss Sigrid Elizabeth",11.0,1,"Sweden Winnipeg, MN",0
+634,3,0,"Andersson, Master Sigvard Harald Elias",4.0,1,"Sweden Winnipeg, MN",1
+635,3,0,"Andreasson, Mr Paul Edvin",20.0,1,"Sweden Chicago, IL",1
+636,3,0,"Angheloff, Mr Minko",26.0,1,"Bulgaria Chicago, IL",1
+637,3,0,"Arnold, Mr Josef",25.0,1,"Altdorf, Switzerland",1
+638,3,0,"Arnold, Mrs Josef (Josephine Frank)",18.0,1,"Altdorf, Switzerland",0
+639,3,0,"Aronsson, Mr Ernst Axel Algot",24.0,1,"Sweden Joliet, IL",1
+641,3,0,"Asplund, Mr Carl Oscar Vilhelm Gustafsson",40.0,1,"Sweden  Worcester, MA",1
+642,3,1,"Asplund, Mrs Carl Oscar (Selma Augusta Johansson)",38.0,1,"Sweden  Worcester, MA",0
+643,3,0,"Asplund, Master Carl Edgar",5.0,1,"Sweden  Worcester, MA",1
+644,3,0,"Asplund, Master Clarence Gustaf Hugo",9.0,1,"Sweden Worcester, MA",1
+645,3,1,"Aspland, Master Edvin Rojj Felix",3.0,1,"Sweden Worcester, MA",1
+646,3,0,"Asplund, Master Filip Oscar",13.0,1,"Sweden Worcester, MA",1
+647,3,1,"Asplund, Mr John Charles",23.0,1,"Oskarshamn, Sweden Minneapolis, MN",1
+648,3,1,"Asplund, Miss Lillian Gertrud",5.0,1,"Sweden Worcester, MA",0
+649,3,0,"Assaf, Mr Gerios",,2,"Ottawa, ON",1
+650,3,1,"Assaf, Mrs Mariana",45.0,2,"Ottawa, ON",0
+653,3,0,"Attala (Kalil), Mr Solomon",27.0,2,"Ottawa, ON",1
+654,3,0,"Augustsson, Mr Albert",23.0,1,"Krakoryd, Sweden Bloomington, IL",1
+656,3,0,"Backstrom, Mr Karl Alfred",32.0,1,"Ruotsinphytaa, Finland New York, NY",1
+657,3,1,"Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson)",33.0,1,"Ruotsinphytaa, Finland New York, NY",0
+658,3,1,"Baclini, Miss Eugenie",3.0,2,"Syria New York, NY",0
+659,3,1,"Baclini, Miss Helene",,2,"Syria New York, NY",0
+660,3,1,"Baclini, Miss Maria",,2,"Syria New York, NY",0
+661,3,1,"Baclini, Mrs Solomon (Latifa)",,2,"Syria New York, NY",0
+662,3,1,"Badman, Miss Emily Louisa",18.0,1,"London Skanteales, NY",0
+665,3,1,"Banoura, Miss Ayout",15.0,2,"Syria Youngstown, OH",0
+666,3,0,"Barbara, Mrs Catherine",45.0,2,"Syria Ottawa, ON",0
+667,3,0,"Barbara, Miss Saude",18.0,2,"Syria Ottawa, ON",0
+668,3,0,"Barry, Miss Julia",27.0,3,"New York, NY",0
+669,3,0,Barton Mr David,22.0,1,"England New York, NY",1
+670,3,0,"Beavan, Mr William Thomas",19.0,1,England,1
+671,3,0,"Bengtsson, Mr John Viktor",26.0,1,"Krakudden, Sweden Moune, IL",1
+672,3,0,Berglund. Mr Karl Ivar Sven,22.0,1,"Tranvik, Finland New York",1
+673,3,0,"Betros, Mr Tannous",20.0,2,Syria,1
+674,3,1,"Bing, Mr Lee",32.0,1,"Hong Kong New York, NY",1
+675,3,0,"Birkeland, Mr Hans",21.0,1,"Brennes, Norway New York",1
+676,3,0,"Bjorklund, Ernst Herbert",18.0,1,"Stockholm, Sweden New York",1
+677,3,0,"Bostandyeff, Mr Guentcho",26.0,1,"Bulgaria Chicago, IL",1
+678,3,0,"Boulos, Master Akar",6.0,2,"Syria Kent, ON",1
+679,3,0,"Boulos, Mr Hanna",,2,Syria,1
+680,3,0,"Boulos, Mrs Joseph (Sultana)",,2,"Syria Kent, ON",0
+681,3,0,"Boulos, Miss Laura",9.0,2,"Syria Kent, ON",0
+682,3,0,"Bourke, Mr John",40.0,3,"Ireland Chicago, IL",1
+683,3,0,"Bourke, Mrs John (Catherine)",32.0,3,"Ireland Chicago, IL",0
+684,3,0,"Bourke, Miss Mary",,3,"Ireland Chicago, IL",0
+685,3,0,"Bowen, Mr David",26.0,1,"Treherbert, Cardiff, Wales",1
+686,3,1,"Bradley, Miss Bridget Delia",18.0,3,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",0
+687,3,0,"Braf, Miss Elin Ester Maria",20.0,1,"Medeltorp, Sweden Chicago, IL",0
+689,3,0,"Braund, Mr Lewis Richard",29.0,1,"Bridgerule, Devon",1
+690,3,0,"Braund, Mr Owen Harris",22.0,1,"Bridgerule, Devon",1
+691,3,0,"Brobek, Mr Karl Rudolf",22.0,1,"Sweden Worcester, MA",1
+692,3,0,"Brocklebank, Mr William Alfred",35.0,1,"Broomfield, Chelmsford, England",1
+693,3,1,"Buckley, Mr Daniel",21.0,3,"Kingwilliamstown, Co Cork, Ireland New York, NY",1
+694,3,0,"Buckley, Miss Katherine",20.0,3,"Co Cork, Ireland Roxbury, MA",0
+695,3,0,"Burke, Mr Jeremiah",19.0,3,"Co Cork, Ireland Charlestown, MA",1
+696,3,0,"Burns, Miss Mary Delia",18.0,3,"Co Sligo, Ireland New York, NY",0
+697,3,0,"Cacic, Mr Grego",18.0,1,Croatia,1
+698,3,0,"Cacic, Mr Luka",38.0,1,Croatia,1
+699,3,0,"Cacic, Mr Manda",,1,Croatia,1
+700,3,0,"Cacic, Mr Maria",30.0,1,Croatia,1
+703,3,0,"Canavan, Mr Patrick",21.0,3,"Ireland Philadelphia, PA",1
+705,3,0,"Caram (Kareem), Mr Joseph",,2,"Ottawa, ON",1
+706,3,0,"Caram (Kareem), Mrs Joseph (Maria Elias)",,2,"Ottawa, ON",0
+707,3,0,"Carlsson, Mr Carl Robert",24.0,1,"Goteborg, Sweden Huntley, IL",1
+708,3,0,"Carlsson, Mr Frans Olof",33.0,1,"New York, NY",1
+710,3,0,"Carlsson, Mr August Sigfrid",28.0,1,"Dagsas, Sweden Fower, MN",1
+711,3,1,"Carr, Miss Helen",16.0,3,"Co Longford, Ireland New York, NY",0
+712,3,0,"Carr, Miss Jeannie",37.0,3,"Co Sligo, Ireland Hartford, CT",0
+713,3,0,"Carver, Mr Alfred John",28.0,1,"St Denys, Southampton, Hants",1
+714,3,1,"Cassem, Mr Nassef Belmenly",,2,"Syria Fredericksburg, VA",1
+715,3,0,"Celotti, Mr Francesco",24.0,1,London,1
+716,3,0,"Chartens, Mr David",21.0,1,"Ireland New York, NY",1
+718,3,0,"Chip, Mr Chang",32.0,1,"Hong Kong New York, NY",1
+720,3,0,"Chronopoulos, Mr Apostolos",26.0,2,Greece,1
+721,3,0,"Chronopoulos, Mr Demetrios",18.0,2,Greece,1
+722,3,0,"Coelho, Mr Domingos Fernandes",20.0,1,Portugal,1
+723,3,1,"Cohen, Mr Gurshon (Gus)",19.0,1,"London Brooklyn, NY",1
+724,3,0,"Colbert, Mr Patrick",24.0,3,"Co Limerick, Ireland Sherbrooke, PQ",1
+726,3,0,"Coleff, Mr Peyo",36.0,1,"Bulgaria Chicago, IL",1
+727,3,0,"Conlin, Mr Thomas Henry",31.0,3,"Philadelphia, PA",1
+728,3,0,"Connaghton, Mr Michael",31.0,3,"Ireland Brooklyn, NY",1
+729,3,0,"Connolly, Miss Kate",30.0,3,Ireland,0
+730,3,1,"Connolly, Miss Kate",22.0,3,Ireland,0
+733,3,0,"Cor, Mr Bartol",35.0,1,Austria,1
+734,3,0,"Cor, Mr Ivan",27.0,1,Austria,1
+735,3,0,"Cor, Mr Ludovik",19.0,1,Austria,1
+736,3,0,"Corn, Mr Harry",30.0,1,London,1
+737,3,1,"Coutts, Mrs William (Minnie)",36.0,1,"England Brooklyn, NY",0
+738,3,1,"Coutts, Master Neville",3.0,1,"England Brooklyn, NY",1
+739,3,1,"Coutts, Master William Leslie",9.0,1,"England Brooklyn, NY",1
+740,3,0,"Coxon, Mr Daniel",59.0,1,"Merrill, WI",1
+741,3,0,"Crease, Mr Ernest James",19.0,1,"Bristol, England Cleveland, OH",1
+742,3,0,"Cribb, Mr John Hatfield",44.0,1,"Bournemouth, England Newark, NJ",1
+743,3,1,"Cribb, Miss Laura Alice",17.0,1,"Bournemouth, England Newark, NJ",0
+745,3,1,"Dahl, Mr Charles Edward",45.0,1,"Australia Fingal, ND",1
+746,3,0,"Dahlberg, Miss Gerda Ulrika",22.0,1,"Norrlot, Sweden Chicago, IL",0
+747,3,0,"Dakic, Mr Branko",19.0,1,Austria,1
+748,3,1,"Daly, Mr Eugene",29.0,3,"Co Athlone, Ireland New York, NY",1
+749,3,1,"Daly, Miss Marcella",30.0,3,"Co Athlone, Ireland New York, NY",0
+750,3,0,"Danbom, Mr Ernst Gilbert",34.0,1,"Stanton, IA",1
+751,3,0,"Danbom, Mrs Ernst Gilbert (Anna Sigrid Maria Brogren)",28.0,1,"Stanton, IA",0
+752,3,0,"Danbom, Master Gilbert Sigvard Emanuel",0.3333,1,"Stanton, IA",1
+753,3,0,"Danoff, Mr Yoto",27.0,1,"Bulgaria Chicago, IL",1
+754,3,0,"Dantchoff, Mr Khristo",25.0,1,"Bulgaria Chicago, IL",1
+755,3,0,"Davies, Mr Alfred",24.0,1,"West Bromwich, England Pontiac, MI",1
+757,3,0,"Davies, Mr John",21.0,1,"West Bromwich, England Pontiac, MI",1
+758,3,0,"Davies, Mr Joseph",17.0,1,"West Bromwich, England Pontiac, MI",1
+759,3,0,"Davison, Mr Thomas Henry",,1,"Liverpool, England Bedford, OH",1
+760,3,1,"Davison, Mrs Thomas Henry (Mary Finck)",,1,"Liverpool, England Bedford, OH",0
+761,3,0,"Dean, Mr Bertram",26.0,1,"Devon, England Wichita, KS",1
+762,3,1,"Dean, Mrs Bertram (Eva)",33.0,1,"Devon, England Wichita, KS",0
+763,3,1,"Dean, Master Bertram Vere",1.0,1,"Devon, England Wichita, KS",1
+764,3,1,"Dean, Miss Elizabeth Gladys (Millvena)",0.1667,1,"Devon, England Wichita, KS",0
+766,3,1,"De Messemaeker, Mr William Joseph",36.0,1,"Tampico, MT",1
+767,3,1,"De Messemaeker, Mrs William Joseph (Anna)",36.0,1,"Tampico, MT",0
+768,3,1,"De Mulder, Mr Theo",30.0,1,"Belgium Detroit, MI",1
+769,3,0,"Denkoff, Mr Mito",,1,"Bulgaria Coon Rapids, IA",1
+772,3,1,"Devaney, Miss Margaret",19.0,3,"Kilmacowen, Co Sligo, Ireland New York, NY",0
+777,3,0,"Dooley, Mr Patrick",32.0,3,"Ireland New York, NY",1
+778,3,1,"Dorkings, Mr Edward Arthur",19.0,1,"England Oglesby, IL",1
+779,3,1,"Dowdell, Miss Elizabeth",30.0,1,"Union Hill, NJ",0
+780,3,0,"Doyle, Miss Elizabeth",24.0,3,"Ireland New York, NY",0
+781,3,1,"Drapkin, Miss Jennie",23.0,1,"London New York, NY",0
+782,3,0,"Drazonovic, Mr Josef",,2,"Austria Niagara Falls, NY",1
+783,3,1,"Driscoll, Miss Bridget",24.0,3,"Ballydehob, Co Cork, Ireland New York, NY",0
+784,3,1,"Duquemin, Mr Joseph",24.0,1,"England Albion, NY",1
+785,3,0,"Dyker, Mr Adolf Fredrik",23.0,1,"West Haven, CT",1
+786,3,1,"Dyker, Mrs Adolf Fredrik (Anna Elizabeth Judith Andersson)",22.0,1,"West Haven, CT",0
+787,3,0,"Econovic, Mr Joso",,1,Austria-Hungary,1
+788,3,0,"Edvardsson, Mr Gustaf Hjalmar",18.0,1,"Tofta, Sweden Joliet, IL",1
+789,3,0,"Eklund, Mr Hans Linus",16.0,1,"Karberg, Sweden Jerome Junction, AZ",1
+790,3,0,"Ekstrom, Mr Johan",45.0,1,"Effington Rut, SD",1
+791,3,0,"Elias, Mr Elias",,2,Syria,1
+792,3,0,"Elias, Mr John",,2,Syria,1
+793,3,0,"Elias, Mr Joseph",,2,"Syria Ottawa, ON",1
+794,3,0,"Elsbury, Mr James",47.0,1,"Illinois, USA",1
+795,3,1,"Emanuel, Miss Virginia Ethel",5.0,1,"New York, NY",0
+798,3,0,"Farrell, Mr James",,3,"Aughnacliff, Co Longford, Ireland New York, NY",1
+799,3,1,"Finoli, Mr Luigi",,1,"Italy Philadelphia, PA",1
+803,3,0,"Foley, Mr Joseph",,3,"Ireland Chicago, IL",1
+804,3,0,"Foley, Mr William",,3,Ireland,1
+805,3,1,"Foo, Mr Choong",,1,"Hong Kong New York, NY",1
+806,3,0,"Ford, Mr Arthur",,1,"Bridgwater, Somerset, England",1
+807,3,0,"Ford, Miss Doolina Margaret",21.0,1,"Rotherfield, Sussex, England Essex Co, MA",0
+808,3,0,"Ford, Mr Edward Watson",18.0,1,"Rotherfield, Sussex, England Essex Co, MA",1
+809,3,0,"Ford, Miss Maggie",9.0,1,"Rotherfield, Sussex, England Essex Co, MA",0
+810,3,0,"Ford, Mrs Edward (Margaret Ann)",48.0,1,"Rotherfield, Sussex, England Essex Co, MA",0
+811,3,0,"Ford, Mr Neil Watson",16.0,1,"Rotherfield, Sussex, England Essex Co, MA",1
+812,3,0,"Fox, Mr Patrick",,3,"Ireland New York, NY",1
+814,3,0,"Gallagher, Mr Martin",25.0,3,"New York, NY",1
+816,3,1,"Georges, Mrs Shahini Weappi",,2,"Youngstown, OH",0
+818,3,1,"Gilnagh, Miss Katie",16.0,3,"Co Longford, Ireland New York, NY",0
+819,3,1,"Glynn, Miss Mary Agatha",,3,"Co Clare, Ireland Washington, DC",0
+820,3,0,"Goldsmith, Mr Frank John",33.0,1,"Strood, Kent, England Detroit, MI",1
+821,3,1,"Goldsmith, Mrs Frank John (Emily A. Brown)",,1,"Strood, Kent, England Detroit, MI",0
+822,3,1,"Goldsmith, Master Frank John William",9.0,1,"Strood, Kent, England Detroit, MI",1
+823,3,0,"Goldsmith, Mr Nathan",41.0,1,"Philadelphia, PA",1
+824,3,0,"Goncalves, Mr Manuel Estanslas",38.0,1,Portugal,1
+825,3,0,"Goodwin, Mr Frederick",40.0,1,"Wiltshire, England Niagara Falls, NY",1
+826,3,0,"Goodwin, Mrs Frederick (Augusta)",43.0,1,"Wiltshire, England Niagara Falls, NY",0
+827,3,0,"Goodwin, Mr Charles E.",14.0,1,"Wiltshire, England Niagara Falls, NY",1
+828,3,0,"Goodwin, Miss Lillian A.",16.0,1,"Wiltshire, England Niagara Falls, NY",0
+829,3,0,"Goodwin, Master Harold V.",9.0,1,"Wiltshire, England Niagara Falls, NY",1
+830,3,0,"Goodwin, Miss Jessie A.",10.0,1,"Wiltshire, England Niagara Falls, NY",0
+831,3,0,"Goodwin, Master Sidney L.",6.0,1,"Wiltshire, England Niagara Falls, NY",1
+832,3,0,"Goodwin, Master William F.",11.0,1,"Wiltshire, England Niagara Falls, NY",1
+833,3,0,"Green, Mr George",40.0,1,"Dorking, Surrey, England",1
+834,3,0,"Gronnestad, Mr Daniel Danielsen",32.0,1,"Foresvik, Norway Portland, ND",1
+836,3,0,"Gustafsson, Mr Alfred Ossian",20.0,1,"Waukegan, Chicago, IL",1
+837,3,0,"Gustafsson, Mr Anders Vilhelm",37.0,1,"Ruotsinphytaa, Finland New York, NY",1
+838,3,0,"Gustafsson, Mr Johan Birger",28.0,1,"Ruotsinphytaa, Finland New York, NY",1
+839,3,0,"Gustafsson, Mr Karl Gideon",19.0,1,"Myren, Sweden New York, NY",1

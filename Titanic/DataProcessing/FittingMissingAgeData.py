@@ -1,8 +1,6 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
-titanic = pd.read_csv("Titanic\DataSet\\train\\titanicOut3.csv")
-
 # 使用RandomForestRegressor填补缺失的年龄属性
 def set_miss_ages(df):
     # 把已有的数值型特征取出来丢进RandomForestRegressor中
@@ -29,6 +27,8 @@ def set_miss_ages(df):
     df.loc[(df.age.isnull()), 'age'] = predictedAges
 
     return df
+
+titanic = pd.read_csv("Titanic\DataSet\\train\\titanicOut3.csv")
 
 titanic = set_miss_ages(titanic)
 

@@ -12,7 +12,7 @@
     age属性部分缺失，homedest属性部分缺失，
     room、ticke、boat属性严重缺失，并且有500多行数据是缺失
     大半数据的。
-	
+
 ![First](Help_files/7.png)
 
 * AttributeDistribution.py
@@ -50,3 +50,19 @@
     分析不同起始点目的点乘客的获救情况，由下图可知，不同起始点跟目的点的数量特别多，而且影响也不大。
 
 ![HomeToDest](Help_files/6.png)
+
+## 2 DataProcessing 数据处理
+
+* RemoveBlankValues.py
+
+    这是一份对原始数据集进行第一层粗略处理的代码，由于在之前的数据分析得知，embarked(港口)，homedest(起始点目的点)缺失了部分的数据，我们为了简单处理，直接把这几行缺失的数据直接删除，其次room(居住房间)，ticket(船票),boat(救生船)不是缺失数据过多，就是对获救率几乎没有影响，所以我们直接把这几个属性删除，导出第一次处理后的数据集titanicOut2.csv
+
+> [titanicOut2.csv](Titanic\DataSet\train\titanicOut2.csv)
+
+* ProcessingIntoNumericalCharacteristics.py
+
+    由于首次处理后的titanicOut2数据集的pclass(等级舱)，embarked(港口)，sex(性别)这三个属性的属性描述是用字符串的类型进行描述的。所以我们用整型的数据来替换掉这些字符串类型的描述。处理后导出titanicOut3.csv
+
+> [titanicOut3.csv](Titanic\DataSet\train\titanicOut3.csv)
+
+* DealWithT
